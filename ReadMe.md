@@ -11,7 +11,7 @@ https://youtu.be/yzTidCVrohw?si=2tjfZo7egWSjsk-T
 
 
 ## 📌 Project Overview
-This repository documents the complete process of creating my final **video essay project** for the *Data Science for Business – Master Class*.  
+This repository documents the complete process of creating my final **video essay project** for the *Data Science for Business Master Class*.  
 
 **Topic:**  
 Analyzing the impact of **Artificial Intelligence, Machine Learning, Deep Learning, and Automation** on warehousing and logistics.
