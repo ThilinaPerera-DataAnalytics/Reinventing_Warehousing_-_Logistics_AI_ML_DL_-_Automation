@@ -4,7 +4,7 @@
 Data Science for Business Masterclass - eLearning.lk
 Final Project Video Essay
 ```
-
+![alt text](cover_photo.png)
 # Link to the video
 
 https://youtu.be/yzTidCVrohw?si=2tjfZo7egWSjsk-T
